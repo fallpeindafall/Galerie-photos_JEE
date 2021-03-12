@@ -1,6 +1,6 @@
 # Gestion Galerie photos
  
-On désire concevoir une application Web qui gère des albums photos d’utilisateurs avec JEE. 
+L'objectif est de concevoir une application Web qui gère des albums photos d’utilisateurs avec JEE. 
 # Profils
  - administrateur
  - utilisateur simple
