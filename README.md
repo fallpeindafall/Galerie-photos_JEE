@@ -1,7 +1,8 @@
 # Gestion Galerie photos
  
-On désire concevoir une application Web qui gère des albums photos d’utilisateurs. Un visiteur du site
-pourra, sans être authentifié, voir les photos qui sont en accès libre. Les photos sont placées dans des
+On désire concevoir une application Web qui gère des albums photos d’utilisateurs avec JEE. 
+# Description:
+Un visiteur du site pourra, sans être authentifié, voir les photos qui sont en accès libre. Les photos sont placées dans des
 albums permettant de grouper les photos d’un même thème (vacance, sport, etc.).
 Un album peut être déclaré public ou privé. Si l’album est privé, seuls les utilisateurs enregistrés et
 autorisés par le propriétaire de l’album peuvent le consulter. S’il est public, il est accessible à tous les
