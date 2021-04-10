@@ -1,4 +1,5 @@
 # Gestion Galerie photos
+ [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1d995e0c5223493993f29158b650f685)](https://www.codacy.com/gh/fallpeindafall/Galerie-photos_JEE/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=fallpeindafall/Galerie-photos_JEE&amp;utm_campaign=Badge_Grade)
  
 L'objectif est de concevoir une application Web qui gère des albums photos d’utilisateurs avec JEE. 
 # Profils
